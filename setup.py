@@ -10,6 +10,6 @@ setup(name='python-machinecoinrpc',
       author_email='<j.scholz@machinecoin.org>',
       maintainer='Juergen Scholz',
       maintainer_email='<j.scholz@machinecoin.org>',
-      url='https://github.com/Gitju/python-machinecoinrpc',
+      url='https://github.com/machinecoin-project/python-machinecoinrpc',
       packages=['machinecoinrpc'],
       classifiers=['License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)', 'Operating System :: OS Independent'])
